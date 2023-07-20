@@ -1,1 +1,1 @@
-The application shows a basic frame usinf the JFrame class of Swing
+The application shows a basic frame using the JFrame class of Swing
